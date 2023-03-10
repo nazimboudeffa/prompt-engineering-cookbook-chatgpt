@@ -8,7 +8,7 @@ This book has diffrent parts and chapters that you can follow but I recommand to
 
  * forewords : Important people talking about this book, maybe you ?
  * preface
- * [introduction : What is prompt engineering](chatgpt-intro.md)
+ * [introduction](chatgpt-intro.md)
  * chapter 1
  * chapter 2
  * chapter 3
