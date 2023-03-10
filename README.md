@@ -1,6 +1,6 @@
 # Prompt Engineering Cookbook ChatGPT
 
-How to become an AI PSY by ChatGPT
+How to become an AI PSY by ChatGPT its self
 
 <img src="prompt-engineering-cookbook-cover-1800x2700.png" width="300">
 
