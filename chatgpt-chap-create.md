@@ -1,5 +1,23 @@
 # Defining Prompt Engineering
 
+## How to create a prompt
+
+To create a prompt in ChatGPT, you can simply start by providing a clear and specific statement or question that outlines the topic you would like the model to generate text about. Here are a few tips to keep in mind:
+
+Be clear and concise: Make sure your prompt is easy to understand and focuses on a specific topic or question.
+
+Be specific: Try to provide as much detail as possible to help guide the model's response.
+
+Use proper grammar and punctuation: Although ChatGPT is capable of understanding text in a conversational style, providing proper grammar and punctuation can help improve the model's response.
+
+Keep it open-ended: Avoid providing a prompt that has a yes or no answer. Instead, create a prompt that encourages the model to generate a detailed response.
+
+For example, a prompt could be:
+
+"Can you write a short story about a detective trying to solve a murder mystery in a small town?"
+
+Once you've provided the prompt, ChatGPT will use its trained knowledge to generate a response based on the given input.
+
 ## Provide examples of how prompt engineering is used in NLP
 
 Here are some examples of how prompt engineering is used in natural language processing (NLP):
