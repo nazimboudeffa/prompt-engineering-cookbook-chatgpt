@@ -9,7 +9,7 @@ This book has diffrent parts and chapters that you can follow but I recommand to
  * forewords : Important people talking about this book, maybe you ?
  * preface
  * [introduction](chatgpt-intro.md)
- * chapter 1
+ * [chapter 1](chatgpt-chap-create.md)
  * chapter 2
  * chapter 3
  * ...
